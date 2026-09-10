@@ -77,14 +77,36 @@ backend-systeem verzonnen. **Lees `docs/MIJNNKGC_INTEGRATION.md` voordat je
 hieraan verder bouwt** — daar staat exact welke vragen eerst beantwoord
 moeten worden door NKGC/GMWconsult.
 
-## Deployment
+## Deployment (Netlify)
 
-Geen platform-specifieke configuratie is hier vastgelegd (bv. Vercel-project-
-instellingen) — dit is een keuze die bij NKGC of de beherende partij hoort.
-De applicatie is een standaard Next.js App Router-project en draait op elk
-platform dat Node.js/Next.js server-side rendering ondersteunt. Zorg bij
-deployment in ieder geval voor:
+Dit project draait op **Netlify**. Netlify's Next.js-adapter is zero-config:
+zodra de repo aan een Netlify-site is gekoppeld, detecteert Netlify Next.js
+automatisch en regelt build/publish zelf — er is bewust **geen
+`netlify.toml`** toegevoegd, want die is voor een standaardsetup niet nodig
+(en overbodige configuratie kan de auto-detectie juist in de weg zitten).
 
-- alle environment variables uit `.env.example` correct ingevuld;
-- `MIJNNKGC_USE_DEV_FIXTURES` **niet** gezet (of expliciet `0`/leeg);
-- HTTPS afgedwongen (nodig voor secure cookies, zie `docs/SECURITY.md`).
+Zorg bij het inrichten van de Netlify-site wél voor:
+
+- **Build command**: `npm run build` (Netlify's default voor Next.js-projecten).
+- **Environment variables** — in Netlify: Site settings → Environment
+  variables. Vul alles in uit `.env.example`:
+  - `NEXT_PUBLIC_SITE_URL` → het echte productiedomein;
+  - `CONTACT_FORM_TO_EMAIL`, `CONTACT_FORM_FROM_EMAIL`, `EMAIL_PROVIDER_API_KEY`;
+  - `MIJNNKGC_SESSION_SECRET` (verplicht, een lange willekeurige string);
+  - `MIJNNKGC_USE_DEV_FIXTURES` **niet instellen** (of expliciet leeg/`0`) —
+    dit mag nooit `1` zijn in productie; de code dwingt dit ook af via een
+    `NODE_ENV`-check, maar zet 'm sowieso niet in Netlify's UI.
+- **HTTPS** — staat standaard aan bij Netlify (gratis Let's Encrypt-certificaat
+  per site/domein), nodig voor de secure cookies van MijnNKGC (zie
+  `docs/SECURITY.md`).
+
+**Belangrijke technische kanttekening — `middleware.ts`, niet `proxy.ts`:**
+Next.js 16 heeft `middleware.ts` hernoemd naar `proxy.ts`. Netlify's eigen
+Next.js-documentatie noemt op dit moment uitsluitend `middleware.ts`
+(uitgevoerd via Edge Functions); `proxy.ts` wordt daar nergens genoemd, en
+draait in Next.js 16 bovendien uitsluitend op de Node.js-runtime, niet op de
+edge. Om te garanderen dat de NL/EN-routing (die op deze middleware leunt)
+op Netlify werkt, gebruikt dit project bewust nog de — in Next 16 wel
+gedeprecieerde, maar functioneel identieke — bestandsnaam `middleware.ts`
+(zie `src/middleware.ts`). Zodra Netlify's runtime `proxy.ts` officieel
+ondersteunt, kan het bestand zonder inhoudelijke wijziging hernoemd worden.
