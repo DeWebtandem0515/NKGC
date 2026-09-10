@@ -1,0 +1,394 @@
+{
+  "meta": {
+    "siteName": "NKGC — Nederlands Klauw Gezondheids Centrum",
+    "defaultTitle": "NKGC | Specialist in klauwgezondheid bij rundvee",
+    "defaultDescription": "Het Nederlands Klauw Gezondheids Centrum combineert klauwverzorging, advies en scholing voor duurzame klauwgezondheid en beter dierwelzijn bij rundvee."
+  },
+  "common": {
+    "skipToContent": "Ga naar inhoud",
+    "readMore": "Lees meer",
+    "contactCta": "Neem contact op",
+    "phone": "Telefoon",
+    "mobile": "Mobiel",
+    "email": "E-mail",
+    "address": "Adres",
+    "back": "Terug",
+    "language": "Taal"
+  },
+  "notFound": {
+    "eyebrow": "404",
+    "title": "Pagina niet gevonden",
+    "description": "De pagina die u zoekt bestaat niet (meer) of is verplaatst.",
+    "cta": "Terug naar home"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Diensten",
+    "servicesItems": {
+      "herdTreatment": "Koppelbehandeling",
+      "dairyHoofHealth": "Klauwgezondheid melkvee",
+      "youngStockHoofHealth": "Klauwgezondheid jongvee",
+      "advice": "Advies & begeleiding"
+    },
+    "education": "Scholing",
+    "educationItems": {
+      "lectures": "Lezingen",
+      "workshops": "Workshops"
+    },
+    "knowledge": "Kennis & onderzoek",
+    "knowledgeItems": {
+      "research": "Praktijkonderzoek"
+    },
+    "about": "Over NKGC",
+    "aboutItems": {
+      "overview": "Over het centrum",
+      "team": "Team / eigenaren",
+      "partners": "Partners"
+    },
+    "contact": "Contact",
+    "mijnNkgc": "MijnNKGC",
+    "openMenu": "Open menu",
+    "closeMenu": "Sluit menu"
+  },
+  "footer": {
+    "description": "Het Nederlands Klauw Gezondheids Centrum brengt kennis en kunde van alle betrokkenen in de rundveehouderij samen om klauwaandoeningen terug te dringen en het dierwelzijn te verbeteren.",
+    "servicesHeading": "Diensten",
+    "knowledgeHeading": "Kennis & scholing",
+    "organisationHeading": "NKGC",
+    "contactHeading": "Contact",
+    "legalHeading": "Juridisch",
+    "privacy": "Privacyverklaring",
+    "cookies": "Cookiebeleid",
+    "terms": "Algemene voorwaarden",
+    "copyright": "Nederlands Klauw Gezondheids Centrum. Alle rechten voorbehouden."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Nederlands Klauw Gezondheids Centrum",
+      "title": "Specialist in klauwgezondheid bij rundvee",
+      "subtitle": "Praktijk, advies en kennis gecombineerd voor duurzame klauwgezondheid en beter dierwelzijn.",
+      "ctaPrimary": "Bekijk onze werkwijze",
+      "ctaSecondary": "Neem contact op"
+    },
+    "pillars": {
+      "heading": "Drie pijlers, één doel",
+      "intro": "NKGC combineert klauwverzorging, advies en scholing om klauwgezondheid bij rundvee structureel te verbeteren.",
+      "care": {
+        "title": "Klauwverzorging",
+        "description": "Koppelbehandeling en structurele aandacht voor klauwgezondheid bij melkvee en jongvee.",
+        "cta": "Meer over klauwverzorging"
+      },
+      "advice": {
+        "title": "Advies & begeleiding",
+        "description": "Praktische begeleiding rondom klauwgezondheid, management, voeding, stalinrichting en omgeving.",
+        "cta": "Bekijk onze aanpak"
+      },
+      "education": {
+        "title": "Scholing",
+        "description": "Lezingen, workshops en trainingen op basis van praktijkervaring, kennis en onderzoek.",
+        "cta": "Bekijk lezingen & workshops"
+      }
+    },
+    "process": {
+      "heading": "Zo werkt een koppelbehandeling",
+      "intro": "Van nulmeting tot concreet plan van aanpak — in vijf stappen.",
+      "steps": {
+        "step1": { "title": "Koppel beoordelen", "description": "Nulmeting van de klauwgezondheid binnen het gehele koppel." },
+        "step2": { "title": "Klauwen behandelen", "description": "Behandeling van alle klauwen in de KVK800-klauwbekapbox." },
+        "step3": { "title": "Bevindingen registreren", "description": "Afwijkingen worden tijdens het bekappen direct digitaal vastgelegd." },
+        "step4": { "title": "Gegevens analyseren", "description": "De geregistreerde gegevens worden na afloop geanalyseerd, onder meer naar leeftijd en lactatiestadium." },
+        "step5": { "title": "Advies & plan van aanpak", "description": "Op basis van het bedrijfsprofiel wordt samen met de veehouder een strategisch plan opgesteld." }
+      },
+      "cta": "Meer over koppelbehandeling"
+    },
+    "mijnNkgc": {
+      "heading": "Uw rapportages altijd inzichtelijk",
+      "description": "Log in op MijnNKGC om persoonlijke rapportages van uw bedrijfsbezoeken te bekijken en te downloaden.",
+      "cta": "Inloggen op MijnNKGC"
+    },
+    "practiceResearch": {
+      "heading": "Van praktijk naar kennis. Van kennis terug naar de praktijk.",
+      "description": "De kracht van NKGC zit in de combinatie van dagelijkse praktijkervaring met toegepast onderzoek, innovatie, advies en scholing. Zo blijft kennis niet op de plank liggen, maar wordt zij direct bruikbaar op het erf.",
+      "cta": "Bekijk praktijkonderzoek"
+    },
+    "video": {
+      "heading": "NKGC in beeld",
+      "description": "Een korte introductie in de werkwijze van het Nederlands Klauw Gezondheids Centrum.",
+      "play": "Video afspelen"
+    },
+    "workshops": {
+      "heading": "Kennis die morgen toepasbaar is",
+      "intro": "Lezingen en workshops op maat, gebaseerd op literatuur, praktijkervaring en praktijkonderzoek.",
+      "emptyHeading": "Interesse in een workshop voor uw organisatie?",
+      "emptyDescription": "Wij stellen lezingen en workshops samen op basis van de behoefte van uw organisatie. Neem contact met ons op om de mogelijkheden te bespreken.",
+      "emptyCta": "Neem contact op",
+      "cardCta": "Meer informatie"
+    },
+    "vacancy": {
+      "heading": "We zoeken versterking",
+      "cta": "Bekijk de vacature"
+    },
+    "finalCta": {
+      "heading": "Werken aan betere klauwgezondheid binnen uw bedrijf?",
+      "description": "Neem contact op met NKGC voor klauwverzorging, advies of scholing.",
+      "cta": "Neem contact op"
+    }
+  },
+  "services": {
+    "overview": {
+      "title": "Diensten",
+      "description": "Van koppelbehandeling tot advies op maat: NKGC ondersteunt rundveehouders bij structurele klauwgezondheid."
+    },
+    "herdTreatment": {
+      "title": "Koppelbehandeling",
+      "heroLead": "Een goed advies kan pas gegeven worden wanneer alle klauwen door onze handen zijn geweest. Een koppelbehandeling geeft het meest volledige beeld van de klauwgezondheidsstatus op uw bedrijf.",
+      "whyHeading": "Waarom een volledige koppelbehandeling?",
+      "whyBody": "Een goed advies is pas mogelijk wanneer er een compleet beeld bestaat van de klauwgezondheid binnen het gehele koppel. Door tijdens een koppelbehandeling alle dieren te beoordelen en te behandelen, ontstaat een betrouwbare nulmeting waarop verder beleid gebaseerd kan worden.",
+      "processHeading": "De werkwijze",
+      "kvkHeading": "KVK800 klauwbekapboxen",
+      "kvkBody": "NKGC werkt met KVK800-klauwbekapboxen. Deze zijn ontworpen met oog voor zowel het dier als de klauwverzorger:",
+      "kvkPoints": {
+        "noise": "Laag geluidsniveau, waardoor dieren rustiger blijven",
+        "comfort": "Comfortabele ondersteuning met twee buikbanden",
+        "flow": "Stressarme aanvoer via een wachtruimte en trechtersysteem",
+        "fixation": "Veilige fixatie zonder gewrichtsbelasting tijdens het optillen",
+        "ergonomic": "Ergonomisch voor mens en dier"
+      },
+      "registrationHeading": "Registratie",
+      "registrationBody": "Tijdens het bekappen worden afwijkingen direct digitaal geregistreerd. Zo ontstaat per dier een actueel en volledig overzicht van de klauwgezondheid.",
+      "analysisHeading": "Analyse",
+      "analysisBody": "Na afloop van de koppelbehandeling worden de geregistreerde gegevens geanalyseerd. Daarbij wordt onder meer gekeken naar het dier, de leeftijd, het lactatiestadium en de geregistreerde aandoeningen, om verbanden en aandachtspunten binnen het koppel zichtbaar te maken.",
+      "planHeading": "Strategisch plan",
+      "planBody": "Op basis van het bedrijfsprofiel wordt samen met de melkveehouder een strategisch plan van aanpak opgesteld. Afhankelijk van de bevindingen kan dit onderwerpen omvatten als rantsoen, management, stalinrichting, vloeren, omgeving en concrete vervolgacties.",
+      "collaborationHeading": "Samenwerking",
+      "collaborationBody": "Waar mogelijk worden andere erfbetreders betrokken bij de uitvoering van het plan, zoals de dierenarts, de voeradviseur en de klauwverzorger, zodat acties op elkaar zijn afgestemd.",
+      "youngStockHeading": "Jongvee",
+      "youngStockBody": "Ook de klauwgezondheid van jongvee verdient structurele aandacht, al vanaf de introductie in het melkveekoppel.",
+      "youngStockCta": "Meer over klauwgezondheid jongvee",
+      "ctaHeading": "Een koppelbehandeling voor uw bedrijf?",
+      "ctaDescription": "Neem contact op om een bedrijfsbezoek te bespreken."
+    },
+    "dairyHoofHealth": {
+      "title": "Klauwgezondheid melkvee",
+      "lead": "Een goed advies kan pas gegeven worden wanneer alle klauwen door onze handen zijn geweest. Een koppelbehandeling geeft het beste beeld van de klauwgezondheidsstatus op uw bedrijf.",
+      "sectionHeading": "Structureel werken aan klauwgezondheid",
+      "body1": "NKGC werkt met KVK800-klauwbekapboxen, ontworpen voor zowel het comfort van het dier als een goede werkhouding voor de klauwverzorger: laag geluidsniveau, ondersteuning in twee buikbanden en een stressarme aanvoer.",
+      "body2": "Tijdens de nulmeting worden alle afwijkingen digitaal geregistreerd. Bij de analyse wordt gekeken naar het dier, de leeftijd en het lactatiestadium, om verbanden met specifieke aandoeningen zichtbaar te maken. Op basis van dit bedrijfsprofiel wordt samen met de melkveehouder een strategisch plan opgesteld.",
+      "body3": "Oplossingen verschillen per bedrijf en kunnen variëren van rantsoenaanpassingen tot managementaanpassingen, aanpassingen aan de stalinrichting of aan de vloer.",
+      "body4": "Andere erfbetreders — voeradviseur, klauwverzorger, dierenarts — worden waar relevant betrokken bij de uitvoering, met een tijdlijn voor de geplande acties.",
+      "linksHeading": "Direct verder naar",
+      "cta": "Bespreek een koppelbehandeling"
+    },
+    "youngStockHoofHealth": {
+      "title": "Klauwgezondheid jongvee",
+      "lead": "De klauwgezondheid van jongvee verdient volgens NKGC veel meer aandacht dan het nu vaak krijgt.",
+      "whyHeading": "Waarom jongvee aandacht verdient",
+      "whyBody": "Een goede klauwstand en -gezondheid is belangrijk bij de introductie van jongvee in het melkveekoppel. Toch krijgt klauwgezondheid bij jongvee in de praktijk vaak onvoldoende structurele aandacht.",
+      "issuesHeading": "Veel voorkomende aandachtspunten",
+      "issuesIntro": "Bij jongvee ziet NKGC onder meer:",
+      "issues": {
+        "deformities": "Vergroeiingen van de klauw",
+        "misalignment": "Scheve stand",
+        "infectious": "Infectieuze aandoeningen"
+      },
+      "approachHeading": "Aanpak van NKGC",
+      "approachBody": "Deze aandachtspunten zijn met een planmatige aanpak goed te ondervangen. Door tijdig te signaleren en structureel te werken aan klauwgezondheid, start jongvee met een goede uitgangspositie in het melkveekoppel.",
+      "relationHeading": "Relatie met het melkveekoppel",
+      "relationBody": "Klauwgezondheid bij jongvee staat niet op zichzelf: een goede start legt de basis voor de klauwgezondheid later in de melkveestapel. Daarom maakt aandacht voor jongvee onderdeel uit van een volledige koppelbehandeling.",
+      "cta": "Bespreek de klauwgezondheid van uw jongvee"
+    },
+    "advice": {
+      "title": "Advies & begeleiding",
+      "lead": "Naast koppelbehandeling biedt NKGC uitgebreider, tweedelijns advies wanneer een vraagstuk verder reikt dan de klauw alleen.",
+      "whenHeading": "Wanneer is uitgebreider advies interessant?",
+      "whenBody": "Wanneer klauwproblemen terugkeren of samenhangen met management, voeding, stalinrichting of omgeving, kan een uitgebreider adviestraject waardevol zijn.",
+      "whatHeading": "Wat wordt bekeken?",
+      "whatIntro": "Tijdens een adviesbezoek brengt NKGC de huidige situatie in kaart, onder meer aan de hand van:",
+      "whatItems": {
+        "situation": "De huidige situatie op het bedrijf",
+        "animals": "Geselecteerde dieren en hun klauwgezondheid",
+        "environment": "De omgeving waarin de dieren gehouden worden",
+        "management": "Management",
+        "housing": "Stalinrichting",
+        "lyingBehaviour": "Liggedrag, waar relevant gemeten met speciale HOBO-meters",
+        "economics": "Economische aspecten van de huidige situatie"
+      },
+      "practicalHeading": "Praktisch advies",
+      "practicalBody": "Adviezen van NKGC zijn nadrukkelijk bedoeld om in de praktijk toepasbaar te zijn, afgestemd op de specifieke situatie van het bedrijf.",
+      "economicsHeading": "Economische afweging",
+      "economicsBody": "Waar mogelijk maakt NKGC een economische inschatting van de huidige kosten en de geschatte opbrengsten van een aanpak. Dit betreft een inschatting op basis van de bedrijfssituatie, geen garantie.",
+      "followUpHeading": "Vervolgtraject",
+      "followUpBody": "Advies is niet per definitie een eenmalig bezoek. Een vervolgtraject kan bestaan uit een vervolgbezoek, telefonisch overleg of aanvullende begeleiding, met een tijdlijn voor de voorgestelde acties.",
+      "collaborationHeading": "Samenwerking",
+      "collaborationBody": "Andere erfbetreders, zoals de voeradviseur, de klauwverzorger en de dierenarts, worden waar relevant betrokken bij het traject.",
+      "cta": "Bespreek een adviestraject"
+    }
+  },
+  "education": {
+    "overview": {
+      "title": "Scholing",
+      "description": "Lezingen en workshops op basis van literatuur, praktijkervaring en praktijkonderzoek.",
+      "lecturesTitle": "Lezingen",
+      "lecturesDescription": "Praktijkgerichte, interactieve lezingen op maat van uw doelgroep.",
+      "workshopsTitle": "Workshops",
+      "workshopsDescription": "Uitleg, demonstratie en oefening rond klauwgezondheid, omgeving en management."
+    },
+    "lectures": {
+      "title": "Lezingen",
+      "lead": "NKGC wil de kennis die er is — en die dagelijks wordt aangevuld — zo helder en praktisch mogelijk overbrengen, zodat deelnemers er in de praktijk direct mee aan de slag kunnen.",
+      "intro": "Lezingen van NKGC zijn geen standaardproduct: onderwerpen worden afgestemd op de doelgroep en de behoefte, van een overzicht van veelvoorkomende klauwaandoeningen tot een verdieping op een specifiek vraagstuk.",
+      "traits": {
+        "practical": { "title": "Praktijkgericht", "description": "Literatuur wordt gecombineerd met praktijkervaring uit koppelbehandelingen en praktijkonderzoek." },
+        "interactive": { "title": "Interactief", "description": "Deelnemers denken actief mee en gaan met elkaar in discussie." },
+        "caseBased": { "title": "Gebaseerd op echte bedrijfssituaties", "description": "Regelmatig wordt gewerkt met probleemgestuurde lezingen die uitgaan van een concrete praktijkcase." }
+      },
+      "methodHeading": "Werkwijze",
+      "methodBody": "Bij een probleemgestuurde lezing start NKGC met de benodigde achtergrondinformatie, presenteert daarna een reële bedrijfssituatie en werkt vervolgens samen met de deelnemers toe naar een oplossing.",
+      "cta": "Lezing aanvragen"
+    },
+    "workshops": {
+      "title": "Workshops",
+      "lead": "In een workshop combineert NKGC uitleg, demonstratie en oefening, zodat deelnemers direct praktijkervaring opdoen.",
+      "topicsHeading": "Onderwerpen",
+      "topicsIntro": "Workshops kunnen onder meer bestaan uit:",
+      "topics": {
+        "explanation": "Uitleg over klauwgezondheid en veelvoorkomende aandoeningen",
+        "demonstration": "Demonstratie van herkenning en behandeling",
+        "practice": "Oefenen onder begeleiding",
+        "environment": "Aandacht voor de omgeving van het dier",
+        "management": "Aandacht voor management"
+      },
+      "basisHeading": "Gebaseerd op praktijk en onderzoek",
+      "basisBody": "Workshops worden opgebouwd vanuit literatuur, praktijkervaring uit koppelbehandelingen en bevindingen uit praktijkonderzoek.",
+      "currentHeading": "Actuele workshops",
+      "noneHeading": "Interesse in een workshop voor uw organisatie?",
+      "noneBody": "Neem contact met ons op om de mogelijkheden te bespreken.",
+      "externalNote": "Voor sommige workshops verwijst NKGC naar een externe inschrijfpagina.",
+      "cta": "Neem contact op"
+    }
+  },
+  "knowledge": {
+    "overview": {
+      "title": "Kennis & onderzoek",
+      "description": "Praktijkonderzoek vormt de brug tussen dagelijkse praktijkervaring en onderbouwde kennis over klauwgezondheid."
+    },
+    "research": {
+      "title": "Praktijkonderzoek",
+      "lead": "NKGC combineert dagelijkse praktijkervaring met toegepast onderzoek, zodat kennis over klauwgezondheid direct bruikbaar wordt op het erf.",
+      "placeholderHeading": "Deze pagina wordt aangevuld",
+      "placeholderBody": "NKGC werkt aan een overzicht van lopend en afgerond praktijkonderzoek. Zodra concrete projecten, publicaties en resultaten beschikbaar zijn, worden deze hier gepresenteerd.",
+      "cta": "Vraag naar praktijkonderzoek"
+    }
+  },
+  "about": {
+    "overview": {
+      "title": "Over NKGC",
+      "lead": "Het Nederlands Klauw Gezondheids Centrum is ontstaan vanuit de wens om een volgende stap te zetten in hoogwaardige zorg en advies rondom klauwgezondheid bij rundvee.",
+      "missionHeading": "Missie",
+      "missionQuote": "Het samenbrengen en uitwisselen van kennis en kunde van alle stakeholders in de rundveehouderij op het gebied van klauwgezondheid bij rundvee, met als gezamenlijk doel het terugdringen en voorkomen van klauwaandoeningen en het verbeteren van het dierwelzijn.",
+      "historyHeading": "Ontstaan",
+      "historyBody1": "NKGC is ruim vijftien jaar geleden ontstaan vanuit de wens om klauwgezondheidszorg en -begeleiding binnen de rundveedierengeneeskunde verder te brengen. Het idee ontstond bij Marcel Drint van Wellensiek Dierenartsen, die al langer de wens had om zich verder te specialiseren in klauwgezondheid bij melkvee.",
+      "historyBody2": "Dit idee groeide uit tot een samenwerking met Gerben Meerema van DAP West-Betuwe en Jan Lievaart, verbonden aan DairySkills en Charles Sturt University. Vanuit de overtuiging dat specialisatie nodig is om echte stappen vooruit te zetten, bundelden zij hun kennis en ervaring.",
+      "historyBody3": "Inmiddels werkt NKGC dagelijks met twee dierenartsen en een vaste groep klauwverzorgers aan klauwgezondheid bij rundvee, door heel Nederland.",
+      "strengthHeading": "Onze kracht",
+      "strengthIntro": "De kracht van NKGC zit in de combinatie van:",
+      "strengthItems": {
+        "practice": "Praktijk",
+        "research": "Toegepast onderzoek",
+        "innovation": "Innovatie",
+        "advice": "Advies",
+        "education": "Scholing"
+      },
+      "teamCta": "Bekijk het team",
+      "partnersCta": "Bekijk onze partners",
+      "cta": "Neem contact op"
+    },
+    "team": {
+      "title": "Team & eigenaren",
+      "lead": "NKGC is opgericht door drie dierenartsen, ieder met een eigen achtergrond en specialisatie binnen de rundveegezondheidszorg.",
+      "verifyNote": "Functies en rollen worden bij NKGC geverifieerd voordat deze definitief als actueel worden gepresenteerd."
+    },
+    "partners": {
+      "title": "Partners",
+      "lead": "NKGC werkt samen met verschillende partners binnen de rundveehouderij en dierengeneeskunde.",
+      "placeholderHeading": "Partneroverzicht volgt",
+      "placeholderBody": "Zodra NKGC logo's, namen en omschrijvingen van partners aanlevert, wordt hier een overzicht gepubliceerd."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "lead": "Vragen over klauwverzorging, advies of scholing? Neem gerust contact op.",
+    "detailsHeading": "Contactgegevens",
+    "directContact": "Marcel Drint",
+    "form": {
+      "heading": "Stuur ons een bericht",
+      "name": "Naam",
+      "company": "Bedrijfsnaam",
+      "email": "E-mailadres",
+      "phone": "Telefoonnummer",
+      "subject": "Onderwerp",
+      "subjectPlaceholder": "Kies een onderwerp",
+      "subjectOptions": {
+        "herdTreatment": "Koppelbehandeling",
+        "advice": "Advies & begeleiding",
+        "education": "Scholing",
+        "vacancy": "Vacature",
+        "other": "Anders"
+      },
+      "message": "Bericht",
+      "submit": "Versturen",
+      "submitting": "Bezig met versturen...",
+      "successHeading": "Bedankt voor uw bericht",
+      "successBody": "We nemen zo snel mogelijk contact met u op.",
+      "errorHeading": "Er ging iets mis",
+      "errorBody": "Probeer het opnieuw of neem telefonisch contact op.",
+      "requiredField": "Dit veld is verplicht",
+      "invalidEmail": "Vul een geldig e-mailadres in",
+      "tooShort": "Vul minimaal {min} tekens in",
+      "honeypotLabel": "Laat dit veld leeg"
+    }
+  },
+  "legal": {
+    "placeholderNote": "Deze pagina is een placeholder in afwachting van de definitieve, door NKGC goedgekeurde tekst.",
+    "privacy": {
+      "title": "Privacyverklaring",
+      "intro": "NKGC gaat zorgvuldig om met persoonsgegevens die via deze website worden verzameld, zoals gegevens uit het contactformulier en, na inloggen, bedrijfsrapportages binnen MijnNKGC."
+    },
+    "cookies": {
+      "title": "Cookiebeleid",
+      "intro": "Deze website gebruikt alleen functionele cookies die nodig zijn voor de werking van de site. Bij het afspelen van de introductievideo wordt pas na uw eigen klik een privacyvriendelijke YouTube-embed geladen."
+    },
+    "terms": {
+      "title": "Algemene voorwaarden",
+      "intro": "De algemene voorwaarden van NKGC voor dienstverlening worden hier gepubliceerd zodra deze door NKGC zijn vastgesteld."
+    }
+  },
+  "mijnnkgc": {
+    "login": {
+      "title": "Inloggen op MijnNKGC",
+      "description": "Log in om uw persoonlijke verslagen en rapportages te bekijken of te downloaden.",
+      "usernameLabel": "Gebruikersnaam of e-mailadres",
+      "passwordLabel": "Wachtwoord",
+      "submit": "Inloggen",
+      "submitting": "Bezig met inloggen...",
+      "forgotPassword": "Wachtwoord vergeten?",
+      "backToSite": "Terug naar de website",
+      "genericError": "Inloggen is niet gelukt. Controleer uw gegevens en probeer het opnieuw.",
+      "notConnectedNotice": "MijnNKGC is nog niet gekoppeld aan het bestaande NKGC-systeem in deze omgeving."
+    },
+    "dashboard": {
+      "greeting": "Goedemiddag",
+      "latestReportHeading": "Laatste rapportage",
+      "viewReport": "Bekijk rapport",
+      "reportsHeading": "Rapportages",
+      "columnDate": "Datum",
+      "columnType": "Type",
+      "columnActions": "Actie",
+      "viewAction": "Bekijken",
+      "downloadAction": "PDF",
+      "noReports": "Er zijn nog geen rapportages beschikbaar.",
+      "accountHeading": "Account",
+      "logout": "Uitloggen"
+    }
+  }
+}

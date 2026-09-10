@@ -1,0 +1,394 @@
+{
+  "meta": {
+    "siteName": "NKGC — Dutch Hoof Health Centre",
+    "defaultTitle": "NKGC | Specialist in cattle hoof health",
+    "defaultDescription": "The Dutch Hoof Health Centre combines hoof care, advice and education for sustainable hoof health and improved animal welfare in cattle."
+  },
+  "common": {
+    "skipToContent": "Skip to content",
+    "readMore": "Read more",
+    "contactCta": "Get in touch",
+    "phone": "Phone",
+    "mobile": "Mobile",
+    "email": "Email",
+    "address": "Address",
+    "back": "Back",
+    "language": "Language"
+  },
+  "notFound": {
+    "eyebrow": "404",
+    "title": "Page not found",
+    "description": "The page you're looking for no longer exists or has moved.",
+    "cta": "Back to home"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "servicesItems": {
+      "herdTreatment": "Herd hoof care",
+      "dairyHoofHealth": "Dairy cattle hoof health",
+      "youngStockHoofHealth": "Young stock hoof health",
+      "advice": "Advice & guidance"
+    },
+    "education": "Education",
+    "educationItems": {
+      "lectures": "Lectures",
+      "workshops": "Workshops"
+    },
+    "knowledge": "Knowledge & research",
+    "knowledgeItems": {
+      "research": "Applied research"
+    },
+    "about": "About NKGC",
+    "aboutItems": {
+      "overview": "About the centre",
+      "team": "Team / founders",
+      "partners": "Partners"
+    },
+    "contact": "Contact",
+    "mijnNkgc": "MijnNKGC",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "footer": {
+    "description": "The Dutch Hoof Health Centre brings together the knowledge and expertise of everyone involved in dairy farming, to reduce hoof disorders and improve animal welfare.",
+    "servicesHeading": "Services",
+    "knowledgeHeading": "Knowledge & education",
+    "organisationHeading": "NKGC",
+    "contactHeading": "Contact",
+    "legalHeading": "Legal",
+    "privacy": "Privacy policy",
+    "cookies": "Cookie policy",
+    "terms": "Terms & conditions",
+    "copyright": "Dutch Hoof Health Centre. All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dutch Hoof Health Centre",
+      "title": "Specialist in cattle hoof health",
+      "subtitle": "Practice, advice and knowledge combined for sustainable hoof health and improved animal welfare.",
+      "ctaPrimary": "See how we work",
+      "ctaSecondary": "Get in touch"
+    },
+    "pillars": {
+      "heading": "Three pillars, one goal",
+      "intro": "NKGC combines hoof care, advice and education to structurally improve cattle hoof health.",
+      "care": {
+        "title": "Hoof care",
+        "description": "Herd hoof treatment and structural attention to hoof health in dairy cattle and young stock.",
+        "cta": "More about hoof care"
+      },
+      "advice": {
+        "title": "Advice & guidance",
+        "description": "Practical guidance on hoof health, management, nutrition, barn design and the animals' environment.",
+        "cta": "See our approach"
+      },
+      "education": {
+        "title": "Education",
+        "description": "Lectures, workshops and training based on practical experience, knowledge and research.",
+        "cta": "See lectures & workshops"
+      }
+    },
+    "process": {
+      "heading": "How a herd treatment works",
+      "intro": "From baseline assessment to a concrete plan of action — in five steps.",
+      "steps": {
+        "step1": { "title": "Assess the herd", "description": "A baseline assessment of hoof health across the entire herd." },
+        "step2": { "title": "Treat the hooves", "description": "All hooves are treated in the KVK800 hoof-trimming crush." },
+        "step3": { "title": "Register findings", "description": "Abnormalities are recorded digitally during trimming." },
+        "step4": { "title": "Analyse the data", "description": "The registered data is analysed afterwards, including by age and lactation stage." },
+        "step5": { "title": "Advice & plan of action", "description": "Based on the farm profile, a strategic plan is drawn up together with the farmer." }
+      },
+      "cta": "More about herd hoof care"
+    },
+    "mijnNkgc": {
+      "heading": "Your reports, always available",
+      "description": "Log in to MijnNKGC to view and download personal reports from your farm visits.",
+      "cta": "Log in to MijnNKGC"
+    },
+    "practiceResearch": {
+      "heading": "From practice to knowledge. From knowledge back to practice.",
+      "description": "NKGC's strength lies in combining daily practical experience with applied research, innovation, advice and education — so knowledge doesn't stay on the shelf, but becomes directly usable on the farm.",
+      "cta": "See applied research"
+    },
+    "video": {
+      "heading": "NKGC in view",
+      "description": "A short introduction to the way the Dutch Hoof Health Centre works.",
+      "play": "Play video"
+    },
+    "workshops": {
+      "heading": "Knowledge you can apply tomorrow",
+      "intro": "Lectures and workshops tailored to your needs, based on literature, practical experience and applied research.",
+      "emptyHeading": "Interested in a workshop for your organisation?",
+      "emptyDescription": "We tailor lectures and workshops to the needs of your organisation. Get in touch to discuss the options.",
+      "emptyCta": "Get in touch",
+      "cardCta": "More information"
+    },
+    "vacancy": {
+      "heading": "We're hiring",
+      "cta": "View the vacancy"
+    },
+    "finalCta": {
+      "heading": "Working towards better hoof health on your farm?",
+      "description": "Contact NKGC for hoof care, advice or education.",
+      "cta": "Get in touch"
+    }
+  },
+  "services": {
+    "overview": {
+      "title": "Services",
+      "description": "From herd hoof care to tailored advice: NKGC supports dairy farmers in achieving structural hoof health."
+    },
+    "herdTreatment": {
+      "title": "Herd hoof care",
+      "heroLead": "Good advice can only be given once every hoof has passed through our hands. A herd treatment gives the most complete picture of hoof health status on your farm.",
+      "whyHeading": "Why a full herd treatment?",
+      "whyBody": "Good advice is only possible with a complete picture of hoof health across the whole herd. By assessing and treating every animal during a herd treatment, a reliable baseline is created on which further policy can be based.",
+      "processHeading": "How it works",
+      "kvkHeading": "KVK800 hoof-trimming crushes",
+      "kvkBody": "NKGC works with KVK800 hoof-trimming crushes, designed with both the animal and the hoof trimmer in mind:",
+      "kvkPoints": {
+        "noise": "Low noise levels, keeping animals calmer",
+        "comfort": "Comfortable support using two belly bands",
+        "flow": "A low-stress approach via a waiting area and funnel system",
+        "fixation": "Secure fixation without joint strain while lifting",
+        "ergonomic": "Ergonomic for both animal and handler"
+      },
+      "registrationHeading": "Registration",
+      "registrationBody": "Abnormalities are recorded digitally during trimming, creating an up-to-date, complete overview of hoof health per animal.",
+      "analysisHeading": "Analysis",
+      "analysisBody": "After the herd treatment, the registered data is analysed. This includes the animal, its age, lactation stage and the conditions recorded, to reveal patterns and points of attention within the herd.",
+      "planHeading": "Strategic plan",
+      "planBody": "Based on the farm profile, a strategic plan of action is drawn up together with the dairy farmer. Depending on the findings, this may cover topics such as ration, management, barn layout, flooring, environment and concrete follow-up actions.",
+      "collaborationHeading": "Collaboration",
+      "collaborationBody": "Where possible, other farm advisors are involved in carrying out the plan, such as the veterinarian, the nutritionist and the hoof trimmer, so actions are coordinated.",
+      "youngStockHeading": "Young stock",
+      "youngStockBody": "Hoof health in young stock also deserves structural attention, starting from their introduction into the dairy herd.",
+      "youngStockCta": "More about young stock hoof health",
+      "ctaHeading": "A herd treatment for your farm?",
+      "ctaDescription": "Get in touch to arrange a farm visit."
+    },
+    "dairyHoofHealth": {
+      "title": "Dairy cattle hoof health",
+      "lead": "Good advice can only be given once every hoof has passed through our hands. A herd treatment gives the best picture of hoof health status on your farm.",
+      "sectionHeading": "Working structurally on hoof health",
+      "body1": "NKGC works with KVK800 hoof-trimming crushes, designed for both animal comfort and a good working posture for the hoof trimmer: low noise levels, support in two belly bands and a low-stress approach.",
+      "body2": "During the baseline assessment, all abnormalities are recorded digitally. The analysis looks at the animal, its age and lactation stage, to reveal links with specific conditions. Based on this farm profile, a strategic plan is drawn up together with the dairy farmer.",
+      "body3": "Solutions differ per farm and can range from ration adjustments to management changes, or adjustments to barn layout or flooring.",
+      "body4": "Other farm advisors — nutritionist, hoof trimmer, veterinarian — are involved where relevant, with a timeline for the planned actions.",
+      "linksHeading": "Continue to",
+      "cta": "Discuss a herd treatment"
+    },
+    "youngStockHoofHealth": {
+      "title": "Young stock hoof health",
+      "lead": "NKGC believes hoof health in young stock deserves far more attention than it usually receives.",
+      "whyHeading": "Why young stock deserves attention",
+      "whyBody": "Good hoof shape and health matter when young stock is introduced into the dairy herd. In practice, however, hoof health in young stock often receives insufficient structural attention.",
+      "issuesHeading": "Common points of attention",
+      "issuesIntro": "In young stock, NKGC regularly sees:",
+      "issues": {
+        "deformities": "Hoof deformities",
+        "misalignment": "Misaligned stance",
+        "infectious": "Infectious conditions"
+      },
+      "approachHeading": "NKGC's approach",
+      "approachBody": "These issues can be addressed effectively with a planned approach. By signalling problems early and working structurally on hoof health, young stock starts out with a good foundation within the dairy herd.",
+      "relationHeading": "Relation to the dairy herd",
+      "relationBody": "Hoof health in young stock doesn't stand on its own: a good start lays the foundation for hoof health later in the dairy herd. That's why attention to young stock is part of a complete herd treatment.",
+      "cta": "Discuss the hoof health of your young stock"
+    },
+    "advice": {
+      "title": "Advice & guidance",
+      "lead": "In addition to herd hoof care, NKGC offers more extensive, second-line advice when an issue reaches beyond the hoof alone.",
+      "whenHeading": "When is more extensive advice useful?",
+      "whenBody": "When hoof problems keep recurring or are linked to management, nutrition, barn layout or environment, a more extensive advisory process can be valuable.",
+      "whatHeading": "What is assessed?",
+      "whatIntro": "During an advisory visit, NKGC maps the current situation, looking among other things at:",
+      "whatItems": {
+        "situation": "The current situation on the farm",
+        "animals": "Selected animals and their hoof health",
+        "environment": "The environment in which the animals are kept",
+        "management": "Management",
+        "housing": "Barn layout",
+        "lyingBehaviour": "Lying behaviour, where relevant measured with dedicated HOBO data loggers",
+        "economics": "The economic aspects of the current situation"
+      },
+      "practicalHeading": "Practical advice",
+      "practicalBody": "NKGC's advice is explicitly meant to be applicable in practice, tailored to the farm's specific situation.",
+      "economicsHeading": "Economic assessment",
+      "economicsBody": "Where possible, NKGC provides an economic estimate of current costs and expected returns of an approach. This is an estimate based on the farm situation, not a guarantee.",
+      "followUpHeading": "Follow-up",
+      "followUpBody": "Advice is not necessarily a one-off visit. Follow-up can consist of a further visit, a phone consultation or additional guidance, with a timeline for the proposed actions.",
+      "collaborationHeading": "Collaboration",
+      "collaborationBody": "Other farm advisors, such as the nutritionist, the hoof trimmer and the veterinarian, are involved where relevant.",
+      "cta": "Discuss an advisory process"
+    }
+  },
+  "education": {
+    "overview": {
+      "title": "Education",
+      "description": "Lectures and workshops based on literature, practical experience and applied research.",
+      "lecturesTitle": "Lectures",
+      "lecturesDescription": "Practical, interactive lectures tailored to your audience.",
+      "workshopsTitle": "Workshops",
+      "workshopsDescription": "Explanation, demonstration and practice around hoof health, environment and management."
+    },
+    "lectures": {
+      "title": "Lectures",
+      "lead": "NKGC wants to convey the knowledge that exists — and is added to daily — as clearly and practically as possible, so participants can put it to use right away.",
+      "intro": "NKGC's lectures are not a standard product: topics are tailored to the audience and their needs, ranging from an overview of common hoof conditions to an in-depth look at a specific issue.",
+      "traits": {
+        "practical": { "title": "Practice-oriented", "description": "Literature is combined with practical experience from herd treatments and applied research." },
+        "interactive": { "title": "Interactive", "description": "Participants actively contribute and discuss with one another." },
+        "caseBased": { "title": "Based on real farm situations", "description": "NKGC regularly works with problem-based lectures that start from a concrete practical case." }
+      },
+      "methodHeading": "Approach",
+      "methodBody": "In a problem-based lecture, NKGC starts with the necessary background, then presents a real farm situation, and works together with participants towards a solution.",
+      "cta": "Request a lecture"
+    },
+    "workshops": {
+      "title": "Workshops",
+      "lead": "In a workshop, NKGC combines explanation, demonstration and practice, so participants gain hands-on experience right away.",
+      "topicsHeading": "Topics",
+      "topicsIntro": "Workshops can include:",
+      "topics": {
+        "explanation": "Explanation of hoof health and common conditions",
+        "demonstration": "Demonstration of recognition and treatment",
+        "practice": "Supervised practice",
+        "environment": "Attention to the animal's environment",
+        "management": "Attention to management"
+      },
+      "basisHeading": "Based on practice and research",
+      "basisBody": "Workshops are built on literature, practical experience from herd treatments, and findings from applied research.",
+      "currentHeading": "Current workshops",
+      "noneHeading": "Interested in a workshop for your organisation?",
+      "noneBody": "Get in touch to discuss the possibilities.",
+      "externalNote": "For some workshops, NKGC refers to an external registration page.",
+      "cta": "Get in touch"
+    }
+  },
+  "knowledge": {
+    "overview": {
+      "title": "Knowledge & research",
+      "description": "Applied research bridges daily practical experience and well-founded knowledge about hoof health."
+    },
+    "research": {
+      "title": "Applied research",
+      "lead": "NKGC combines daily practical experience with applied research, so knowledge about hoof health becomes directly usable on the farm.",
+      "placeholderHeading": "This page is being expanded",
+      "placeholderBody": "NKGC is working on an overview of ongoing and completed applied research. As concrete projects, publications and results become available, they will be presented here.",
+      "cta": "Ask about applied research"
+    }
+  },
+  "about": {
+    "overview": {
+      "title": "About NKGC",
+      "lead": "The Dutch Hoof Health Centre was founded from the wish to take the next step in high-quality care and advice around cattle hoof health.",
+      "missionHeading": "Mission",
+      "missionQuote": "Bringing together and exchanging the knowledge and expertise of all stakeholders in dairy farming in the field of cattle hoof health, with the shared goal of reducing and preventing hoof disorders and improving animal welfare.",
+      "historyHeading": "Origins",
+      "historyBody1": "NKGC was founded more than fifteen years ago from the wish to advance hoof health care and guidance within cattle veterinary medicine. The idea originated with Marcel Drint of Wellensiek Dierenartsen, who had long wanted to specialise further in dairy cattle hoof health.",
+      "historyBody2": "This idea grew into a partnership with Gerben Meerema of DAP West-Betuwe and Jan Lievaart, affiliated with DairySkills and Charles Sturt University. Driven by the belief that specialisation is needed to make real progress, they combined their knowledge and experience.",
+      "historyBody3": "Today, NKGC works daily with two veterinarians and a dedicated group of hoof trimmers on cattle hoof health, throughout the Netherlands.",
+      "strengthHeading": "Our strength",
+      "strengthIntro": "NKGC's strength lies in the combination of:",
+      "strengthItems": {
+        "practice": "Practice",
+        "research": "Applied research",
+        "innovation": "Innovation",
+        "advice": "Advice",
+        "education": "Education"
+      },
+      "teamCta": "Meet the team",
+      "partnersCta": "See our partners",
+      "cta": "Get in touch"
+    },
+    "team": {
+      "title": "Team & founders",
+      "lead": "NKGC was founded by three veterinarians, each with their own background and specialisation within cattle health care.",
+      "verifyNote": "Roles and titles are verified with NKGC before being presented here as current."
+    },
+    "partners": {
+      "title": "Partners",
+      "lead": "NKGC works together with various partners within dairy farming and veterinary medicine.",
+      "placeholderHeading": "Partner overview coming soon",
+      "placeholderBody": "As soon as NKGC provides logos, names and descriptions of partners, an overview will be published here."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "lead": "Questions about hoof care, advice or education? Feel free to get in touch.",
+    "detailsHeading": "Contact details",
+    "directContact": "Marcel Drint",
+    "form": {
+      "heading": "Send us a message",
+      "name": "Name",
+      "company": "Company name",
+      "email": "Email address",
+      "phone": "Phone number",
+      "subject": "Subject",
+      "subjectPlaceholder": "Choose a subject",
+      "subjectOptions": {
+        "herdTreatment": "Herd hoof care",
+        "advice": "Advice & guidance",
+        "education": "Education",
+        "vacancy": "Vacancy",
+        "other": "Other"
+      },
+      "message": "Message",
+      "submit": "Send",
+      "submitting": "Sending...",
+      "successHeading": "Thank you for your message",
+      "successBody": "We will get back to you as soon as possible.",
+      "errorHeading": "Something went wrong",
+      "errorBody": "Please try again or contact us by phone.",
+      "requiredField": "This field is required",
+      "invalidEmail": "Enter a valid email address",
+      "tooShort": "Enter at least {min} characters",
+      "honeypotLabel": "Leave this field empty"
+    }
+  },
+  "legal": {
+    "placeholderNote": "This page is a placeholder pending final, NKGC-approved copy.",
+    "privacy": {
+      "title": "Privacy policy",
+      "intro": "NKGC handles personal data collected through this website carefully, such as contact form submissions and, after logging in, farm reports within MijnNKGC."
+    },
+    "cookies": {
+      "title": "Cookie policy",
+      "intro": "This website only uses functional cookies required for the site to work. The introduction video only loads a privacy-friendly YouTube embed after you click to play it."
+    },
+    "terms": {
+      "title": "Terms & conditions",
+      "intro": "NKGC's terms and conditions for its services will be published here once finalised by NKGC."
+    }
+  },
+  "mijnnkgc": {
+    "login": {
+      "title": "Log in to MijnNKGC",
+      "description": "Log in to view or download your personal reports.",
+      "usernameLabel": "Username or email address",
+      "passwordLabel": "Password",
+      "submit": "Log in",
+      "submitting": "Logging in...",
+      "forgotPassword": "Forgot your password?",
+      "backToSite": "Back to the website",
+      "genericError": "Login failed. Please check your details and try again.",
+      "notConnectedNotice": "MijnNKGC is not yet connected to the existing NKGC system in this environment."
+    },
+    "dashboard": {
+      "greeting": "Good afternoon",
+      "latestReportHeading": "Latest report",
+      "viewReport": "View report",
+      "reportsHeading": "Reports",
+      "columnDate": "Date",
+      "columnType": "Type",
+      "columnActions": "Action",
+      "viewAction": "View",
+      "downloadAction": "PDF",
+      "noReports": "No reports are available yet.",
+      "accountHeading": "Account",
+      "logout": "Log out"
+    }
+  }
+}

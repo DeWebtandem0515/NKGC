@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    /* Vangnet tegen sub-pixel horizontale overflow van de editorial
+       overlap-composities (negatieve marges, randbleed-motieven) — nooit
+       een horizontale scrollbar, ook niet voor een enkele pixel. */
+    overflow-x: clip;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+  body {
+    @apply bg-white text-nkgc-blue-900 antialiased;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-nkgc-green-600 ring-offset-2 ring-offset-white;
+  }
+}
+
+@layer components {
+  /* rounded-btn (10px), niet rounded-full: pill-buttons zijn hét
+     herkenbare AI-templatepatroon dat deze redesign expliciet vermijdt. */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-btn px-7 py-3.5 text-sm font-semibold tracking-wide transition-colors duration-150 min-h-12;
+  }
+  .btn-primary {
+    /* green-700, niet -600: -600 haalt op wit slechts 3.36:1 contrast met
+       witte tekst (WCAG AA vereist 4.5:1 voor normale tekstgrootte). */
+    @apply btn bg-nkgc-green-700 text-white hover:bg-nkgc-green-800;
+  }
+  .btn-secondary {
+    @apply btn bg-transparent text-nkgc-blue-900 ring-1 ring-inset ring-nkgc-blue-900/25 hover:bg-nkgc-blue-900/5;
+  }
+  .btn-on-dark {
+    @apply btn bg-white text-nkgc-blue-900 hover:bg-nkgc-sand-100;
+  }
+  .btn-outline-on-dark {
+    @apply btn bg-transparent text-white ring-1 ring-inset ring-white/40 hover:bg-white/10;
+  }
+  .skip-link {
+    @apply sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[100] focus:rounded-md focus:bg-white focus:px-4 focus:py-2 focus:text-nkgc-blue-900 focus:shadow-card;
+  }
+
+  /* Kort, cursief missiestatement (BrandStatement) — bewust ingetogen
+     qua schaal, zodat het als quote/missie leest i.p.v. als hero-kop. */
+  .text-statement {
+    @apply text-xl font-medium italic leading-[1.4] tracking-tight text-nkgc-blue-800 sm:text-2xl;
+  }
+}
